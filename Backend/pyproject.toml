@@ -32,6 +32,11 @@ langchainhub = { version = "*" }
 neo4j = { version = "*" }
 python = ">=3.12,<3.13"
 python-dotenv = { version = "*" }
+uvicorn = "*"
+sqlalchemy = "*"
+pydantic = "*"
+databases = "*"
+
 
 
 [build-system]
